@@ -1,5 +1,6 @@
 +++
 authors = []
+case_size = "44MM"
 date = 2020-05-29T05:00:00Z
 excerpt = "Exceprt"
 hero = "/images/04.03.20-19.jpg"
